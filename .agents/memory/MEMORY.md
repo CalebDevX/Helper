@@ -1,0 +1,1 @@
+- [Baileys compatibility shims](baileys-shims.md) — obfuscated main.js needs @adiwajshing/baileys + @library/wawebjs shims pointing to @whiskeysockets/baileys v7, with makeInMemoryStore stub added.
