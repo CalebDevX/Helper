@@ -3,6 +3,34 @@
     {
       "trigger": "assalamualaikum",
       "reply": "*_Waalikum Aslam_*"
+    },
+    {
+      "trigger": "hi",
+      "reply": "*👋 Hello! I am Achek Bot 2*\n\n_Powered by achek.com.ng_\n\nType *.menu* to see all available commands!"
+    },
+    {
+      "trigger": "hello",
+      "reply": "*👋 Hello! I am Achek Bot 2*\n\n_Powered by achek.com.ng_\n\nType *.menu* to see all available commands!"
+    },
+    {
+      "trigger": "hey",
+      "reply": "*👋 Hey there! I am Achek Bot 2*\n\n_Powered by achek.com.ng_\n\nType *.menu* to see what I can do!"
+    },
+    {
+      "trigger": "achek",
+      "reply": "*🤖 Achek Bot 2*\n\n🌐 Website: achek.com.ng\n📌 Type *.menu* to get started!"
+    },
+    {
+      "trigger": "owner",
+      "reply": "*👤 Bot Owner Info*\n\n🌐 Website: achek.com.ng\n📲 WhatsApp: +2348104040841\n\n_Contact the owner for premium access!_"
+    },
+    {
+      "trigger": "website",
+      "reply": "*🌐 Achek Website*\n\nhttps://achek.com.ng\n\n_Visit us for more info!_"
+    },
+    {
+      "trigger": "bot",
+      "reply": "*🤖 I am Achek Bot 2!*\n\n_A powerful WhatsApp bot by Achek_\n🌐 achek.com.ng\n\nType *.menu* to see all commands!"
     }
   ]
 }
