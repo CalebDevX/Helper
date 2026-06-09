@@ -1,7 +1,7 @@
 {
-  "name": "Tech-God-Bot",
+  "name": "Achek_Bot_2",
   "version": "5.0.0",
-  "description": "A WhatsApp bot",
+  "description": "Achek WhatsApp Bot - achek.com.ng",
   "main": "main.js",
   "type": "commonjs",
   "scripts": {
@@ -10,9 +10,10 @@
   "keywords": [
     "whatsapp",
     "bot",
+    "achek",
     "baileys"
   ],
-  "author": "TechGod",
+  "author": "Achek",
   "license": "MIT",
   "dependencies": {
     "@adiwajshing/keyed-db": "^0.2.4",
@@ -59,6 +60,6 @@
     "yt-search": "^2.12.1"
   },
   "devDependencies": {
-    "webcrack": "^2.15.1"
+    "webcrack": "*"
   }
 }

@@ -1,5 +1,4 @@
-Before apply this prosses Watch tutorial video on *Tech God* youtube channel
-
+Achek Bot 2 — achek.com.ng
 
 
 1. For beginners 👇
@@ -7,18 +6,16 @@ Before apply this prosses Watch tutorial video on *Tech God* youtube channel
 
 
 
-2. if any issue Reboot bot completely 👇 
-     cd /storage/emulated/0/techgod13 && yarn install && npm start
+2. If any issue — Reboot bot completely 👇 
+     cd /storage/emulated/0/AchekBot2 && yarn install && npm start
 
 
 
-if you exit termux then again start bot 👇 
-   cd /storage/emulated/0/techgod13 && npm start
+If you exit Termux then start bot again 👇 
+   cd /storage/emulated/0/AchekBot2 && npm start
 
 
 
 Note:
 
-Don't forget to subscribe YouTube channel-  Tech God
-
-yt link http://www.youtube.com/@techgod143 🧲 😘 💕
+Visit achek.com.ng for more info

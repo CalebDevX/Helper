@@ -18,7 +18,7 @@ const {
 Boom
 } = require('@hapi/boom')
 const PhoneNumber = require('awesome-phonenumber')
-let phoneNumber = "916909137213";
+let phoneNumber = "2348104040841";
 const pairingCode = !!phoneNumber || process.argv.includes("--pairing-code");
 const useMobile = process.argv.includes("--mobile");
 const readline = require("readline");
@@ -138,7 +138,7 @@ XeonBotInc.getFile = async (PATH, save) => {
         return {
             res,
             filename,
-	    size: await getSizeMedia(data),
+            size: await getSizeMedia(data),
             ...type,
             data
         }

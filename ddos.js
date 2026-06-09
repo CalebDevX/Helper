@@ -1,11 +1,4 @@
-//base by DGXeon (Xeon Bot Inc.)
-//re-upload? recode? copy code? give credit ya :)
-//YouTube: @DGXeon
-//Instagram: unicorn_xeon13
-//Telegram: t.me/xeonbotinc
-//GitHub: @DGXeon
-//WhatsApp: +919366316018
-//want more free bot scripts? subscribe to my youtube channel: https://youtube.com/@DGXeon
+//Achek Bot 2 — achek.com.ng
 
 var cloudscraper = require('cloudscraper');
 var request=require('request');
